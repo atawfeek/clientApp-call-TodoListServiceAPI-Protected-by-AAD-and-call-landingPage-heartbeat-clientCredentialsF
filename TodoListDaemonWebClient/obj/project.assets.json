@@ -11982,11 +11982,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\external\\TodoListServiceAPI-Protected-by-AAD\\TodoListDaemonWebClient\\TodoListDaemonWebClient.csproj",
+      "projectUniqueName": "C:\\external\\clientApp-call-TodoListServiceAPI-Protected-by-AAD-and-call-landingPage-heartbeat-clientCredentialsFow\\TodoListDaemonWebClient\\TodoListDaemonWebClient.csproj",
       "projectName": "TodoListDaemonWebClient",
-      "projectPath": "C:\\external\\TodoListServiceAPI-Protected-by-AAD\\TodoListDaemonWebClient\\TodoListDaemonWebClient.csproj",
+      "projectPath": "C:\\external\\clientApp-call-TodoListServiceAPI-Protected-by-AAD-and-call-landingPage-heartbeat-clientCredentialsFow\\TodoListDaemonWebClient\\TodoListDaemonWebClient.csproj",
       "packagesPath": "C:\\Users\\TawfikA\\.nuget\\packages\\",
-      "outputPath": "C:\\external\\TodoListServiceAPI-Protected-by-AAD\\TodoListDaemonWebClient\\obj\\",
+      "outputPath": "C:\\external\\clientApp-call-TodoListServiceAPI-Protected-by-AAD-and-call-landingPage-heartbeat-clientCredentialsFow\\TodoListDaemonWebClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

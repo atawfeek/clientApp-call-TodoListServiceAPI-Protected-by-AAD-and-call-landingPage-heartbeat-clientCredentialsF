@@ -12594,11 +12594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\external\\TodoListServiceAPI-Protected-by-AAD\\TodoListServiceAPI-Protected-by-AAD\\TodoListServiceAPI-Protected-by-AAD.csproj",
+      "projectUniqueName": "C:\\external\\clientApp-call-TodoListServiceAPI-Protected-by-AAD-and-call-landingPage-heartbeat-clientCredentialsFow\\TodoListServiceAPI-Protected-by-AAD\\TodoListServiceAPI-Protected-by-AAD.csproj",
       "projectName": "TodoListServiceAPI-Protected-by-AAD",
-      "projectPath": "C:\\external\\TodoListServiceAPI-Protected-by-AAD\\TodoListServiceAPI-Protected-by-AAD\\TodoListServiceAPI-Protected-by-AAD.csproj",
+      "projectPath": "C:\\external\\clientApp-call-TodoListServiceAPI-Protected-by-AAD-and-call-landingPage-heartbeat-clientCredentialsFow\\TodoListServiceAPI-Protected-by-AAD\\TodoListServiceAPI-Protected-by-AAD.csproj",
       "packagesPath": "C:\\Users\\TawfikA\\.nuget\\packages\\",
-      "outputPath": "C:\\external\\TodoListServiceAPI-Protected-by-AAD\\TodoListServiceAPI-Protected-by-AAD\\obj\\",
+      "outputPath": "C:\\external\\clientApp-call-TodoListServiceAPI-Protected-by-AAD-and-call-landingPage-heartbeat-clientCredentialsFow\\TodoListServiceAPI-Protected-by-AAD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
