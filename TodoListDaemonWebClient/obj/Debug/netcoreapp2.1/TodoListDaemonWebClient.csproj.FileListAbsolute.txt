@@ -1,0 +1,14 @@
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\bin\Debug\netcoreapp2.1\appsettings.json
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\bin\Debug\netcoreapp2.1\TodoListDaemonWebClient.deps.json
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\bin\Debug\netcoreapp2.1\TodoListDaemonWebClient.runtimeconfig.json
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\bin\Debug\netcoreapp2.1\TodoListDaemonWebClient.runtimeconfig.dev.json
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\bin\Debug\netcoreapp2.1\TodoListDaemonWebClient.dll
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\bin\Debug\netcoreapp2.1\TodoListDaemonWebClient.pdb
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\obj\Debug\netcoreapp2.1\TodoListDaemonWebClient.csproj.CoreCompileInputs.cache
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\obj\Debug\netcoreapp2.1\TodoListDaemonWebClient.RazorAssemblyInfo.cache
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\obj\Debug\netcoreapp2.1\TodoListDaemonWebClient.RazorAssemblyInfo.cs
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\obj\Debug\netcoreapp2.1\TodoListDaemonWebClient.AssemblyInfoInputs.cache
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\obj\Debug\netcoreapp2.1\TodoListDaemonWebClient.AssemblyInfo.cs
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\obj\Debug\netcoreapp2.1\TodoListDaemonWebClient.RazorTargetAssemblyInfo.cache
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\obj\Debug\netcoreapp2.1\TodoListDaemonWebClient.dll
+C:\external\TodoListServiceAPI-Protected-by-AAD\TodoListDaemonWebClient\obj\Debug\netcoreapp2.1\TodoListDaemonWebClient.pdb
